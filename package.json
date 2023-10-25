@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "private": true,
-  "author": "Ricardo y Daniel Macario",
-  "license": "ISC",
+  "author": "Grupo 3",
+  "license": "UMG",
   "scripts": {
     "dev": "nodemon index.js",
     "seed-db": "node scripts/seedDb.js"
